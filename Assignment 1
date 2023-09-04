@@ -1,1 +1,2 @@
-
+git rm file1.txt
+git commit -m "Assignment 1.txt"
